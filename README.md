@@ -7,6 +7,9 @@ The font collection includes:
 - Septambres Fune
 - Septambres Lith
 - Septambres Neau
+- Septambres Revisit
+- Ehrivn July
+- Ehrivnevn_v lo
 
 Licence
 -------
